@@ -6,5 +6,5 @@ Build your customized gallery!. you can upload by capturing a photo with your ca
 # npm i for both
 # npm start for client
 # nodemon for server
-# locaolhost:3000
+# localhost:3000
 # enjoy
